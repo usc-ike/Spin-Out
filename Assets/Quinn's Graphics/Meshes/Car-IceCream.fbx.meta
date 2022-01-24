@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 4a9e6668e96060b4dad3756f36d158e4
+timeCreated: 1432812475
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:polySurface2
+    100004: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:pPlane13
+    100006: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:transform1
+    100008: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:transform2
+    100010: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:transform3
+    100012: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:transform4
+    100014: IceCreamTruck_MAIN_UVd:polySurface1
+    100016: IceCreamTruck_MAIN_UVd:polySurface2
+    100018: IceCreamTruck_MAIN_UVd:pPlane12
+    100020: IceCreamTruck_MAIN_UVd:pPlane13
+    100022: IceCreamTruck_MAIN_UVd:pSphere5
+    100024: IceCreamTruck_MAIN_UVd:transform1
+    100026: IceCreamTruck_MAIN_UVd:transform2
+    100028: IceCreamTruck_MAIN_UVd:transform3
+    100030: pCone1
+    100032: pSphere4
+    100034: pSphere5
+    100036: transform53
+    100038: transform54
+    400000: //RootNode
+    400002: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:polySurface2
+    400004: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:pPlane13
+    400006: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:transform1
+    400008: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:transform2
+    400010: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:transform3
+    400012: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:transform4
+    400014: IceCreamTruck_MAIN_UVd:polySurface1
+    400016: IceCreamTruck_MAIN_UVd:polySurface2
+    400018: IceCreamTruck_MAIN_UVd:pPlane12
+    400020: IceCreamTruck_MAIN_UVd:pPlane13
+    400022: IceCreamTruck_MAIN_UVd:pSphere5
+    400024: IceCreamTruck_MAIN_UVd:transform1
+    400026: IceCreamTruck_MAIN_UVd:transform2
+    400028: IceCreamTruck_MAIN_UVd:transform3
+    400030: pCone1
+    400032: pSphere4
+    400034: pSphere5
+    400036: transform53
+    400038: transform54
+    2300000: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:polySurface2
+    3300000: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:polySurface2
+    4300000: IceCreamTruck_MAIN_UVd:IceCreamTruck_MAIN_UVd:polySurface2
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

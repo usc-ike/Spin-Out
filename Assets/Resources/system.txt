@@ -1,0 +1,48 @@
+﻿English{
+Play;
+Gallery;
+Region;
+Credits;
+Language Settings;
+Ryota Dan;
+Sterling Quinn;
+Spaulding Cummings;
+Project Lead;
+Lead Programmer;
+Art Design Lead;
+Game Design Team;
+Original Soundtrack composed by Kanki Suzuki;
+Arcade;
+Classic;
+Infinite;
+Challenge;
+How To Play;
+}
+
+Japanese{
+プレイ;
+ギャラリー;
+言語;
+キャスト;
+言語設定;
+段亮太;
+Sterling Quinn;
+Spaulding Cummings;
+プロジェクトリーダー;
+プログラマー;
+グラフィックデザイナー;
+コンセプト開発;
+オリジナル　サウンドトラック　鈴木歓喜;
+アーケード;
+クラシック;
+インフィニティー;
+チャレンジ;
+遊び方;
+}
+
+German{
+Spiel;
+Gallery_DE;
+Language_DE;
+Credits_DE;
+}

@@ -1,0 +1,25 @@
+﻿vehicle1:
+description for 
+vehicle 1 in english
+
+車１:
+車1の解説
+データ
+
+auto1:
+Beschreibung von auto 1
+in Deutsch
+
+::
+
+vehicle2:
+description for 
+vehicle 2 in english
+
+車２:
+車２の解説
+データ
+
+auto2:
+Beschreibung von auto 2
+in Deutsch
